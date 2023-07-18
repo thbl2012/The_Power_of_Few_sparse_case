@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'The Power of Few phenomenon: the sparse case simulations'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Linh
+    name-particle: H B
+    family-names: Tran
+    email: thbl.2012@gmail.com
+    affiliation: Yale University
+    orcid: 'https://orcid.org/0009-0005-0492-0343'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/thbl2012/The_Power_of_Few_sparse_case.git
+    description: The_Power_of_Few_sparse_case
+repository-code: >-
+  https://github.com/thbl2012/The_Power_of_Few_sparse_case.git
+abstract: >-
+  The source codes for the simulations in the 2023 paper
+  "The Power of Few phenomenon: the sparse case" by Linh
+  Tran and Van Vu.
+keywords:
+  - Random Graphs
+  - Majority Dynamics
+  - Probabilistic Combinatorics
+  - Graph Theory
+  - Simulation
